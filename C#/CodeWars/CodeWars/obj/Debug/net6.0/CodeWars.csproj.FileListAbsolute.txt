@@ -1,0 +1,30 @@
+D:\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.exe
+D:\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+D:\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+D:\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.dll
+D:\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.AssemblyReference.cache
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.dll
+D:\CodeWars\CodeWars\obj\Debug\net6.0\refint\CodeWars.dll
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+D:\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache
+D:\CodeWars\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.exe
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.dll
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.AssemblyReference.cache
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.dll
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\refint\CodeWars.dll
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache
+E:\Path\ComputerScience\Programming\Problem solving\C#\CodeWars\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
